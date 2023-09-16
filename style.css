@@ -1,0 +1,18 @@
+body{
+    background-color: hotpink;
+    text-align: center;
+    color: azure;
+}
+.LABS {
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px;
+    color: deeppink;
+}
+a:hover{
+    background-color: aquamarine;
+    border-radius: 20px;
+    padding: 10px;
+}
